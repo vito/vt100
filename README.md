@@ -1,3 +1,9 @@
+# MOVED
+
+> **@vito**: this fork has grown into a long-running project with capabilities
+> beyond vt100 terminals, so I have created a new package with a less
+> technically constraining name: https://github.com/vito/midterm
+
 #VT100
 
 [![GoDoc](https://godoc.org/github.com/vito/vt100?status.svg)](https://godoc.org/github.com/vito/vt100)
